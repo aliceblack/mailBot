@@ -1,1 +1,3 @@
 # mailBot
+
+just playing with php...
